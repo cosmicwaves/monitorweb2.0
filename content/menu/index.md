@@ -21,3 +21,4 @@ headless: true
 <br />
 
 - [**Sonuç ve Öneriler**]({{< relref "/docs/sonuc" >}})
+<br />
