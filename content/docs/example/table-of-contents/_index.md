@@ -2,84 +2,28 @@
 weight: 10
 ---
 
-# Ubi loqui
+# Amaç, Kapsam ve Metodoloji
 
-## Mentem genus facietque salire tempus bracchia
+Gaziantep Büyükşehir kent merkezini oluşturan Şehitkamil ve Şahinbey ilçelerinde ikamet eden kayıtlı Suriyeliler ve Gaziantepliler arasındaki toplumsal ilişkileri anlamak, aynı zamanda, il düzeyindeki Suriyelilerin %80’ninden fazlasına dair bilgi sahibi olmak anlamına gelecektir. Gündelik hayat ilişkilerinden komşuluğa, iş ve çalışmadan gelir ve harcamalara, eğitim ve sağlık hizmetlerine erişimden resmî kurumlarla ilişkilere kadar pek çok temel başlıkta, Suriyelilerin ve benzer sosyal ve fiziki koşullarda yaşadıkları tahmin edilen Gazianteplilerin genel örüntüsünün ve süregiden gündelik hayattaki sosyal uyumun genel betimlemesini yapmak bu araştırmanın temel amacıdır.  Bunun yanında hem Suriyelilerin hem de Gazianteplilerin genel hane örüntülerini ortaya koymak ve sosyal uyumun muhtemel yönleri hakkında bazı öngörülerde bulunmak için gerekli verilerin sağlanması da dolaylı olarak amaçlanmıştır. Zira aradan geçen on bir yıldan sonra, bütün sorunlara, yargılara, günlük veya dönemsel politik mülahazalara, söylemlere ve değişik medya kanallardaki çok farklı söylemlere rağmen, bir biçimde işleyen bir uyumun, birlikte yaşamın ve devam eden bir toplumsal hayatın olduğu da net bir şekilde görülüyor. Bu araştırma, tam da bu karmaşık söylem ve tahayyül arasında ilerleyen gündelik hayatı mümkün kılan kılcal damarları ortaya çıkarmaya çalışmaktadır. 
 
-Lorem markdownum partu paterno Achillem. Habent amne generosi aderant ad pellem
-nec erat sustinet merces columque haec et, dixit minus nutrit accipiam subibis
-subdidit. Temeraria servatum agros qui sed fulva facta. Primum ultima, dedit,
-suo quisque linguae medentes fixo: tum petis.
+Diğer taraftan, bu araştırma, 2017’den bugüne kadar Gaziantep Üniversitesi Sosyoloji Bölümü tarafından Suriyeliler ve Gaziantepliler üzerine gerçekleştirilen saha araştırmalarının devamı niteliği de taşımaktadır ve bu araştırmadaki pek çok soru ve konu, önceki çalışmaların devamı niteliğindedir. 2017’de yapılan ve 2018’de üç dilde (Türkçe, İngilizce, Arapça) yayınlanan Gaziantep’teki Suriyeliler: Uyum, Beklentiler ve Zorluklar başlıklı çalışma, kent merkezindeki Suriyelilere odaklanıyordu. Devamındaki Gaziantep’teki Suriyeliler: Başarı Hikayeleri başlıklı araştırma projesi, belgesel film ve ortak kitap, kente uyum ve “başarılı” olma dinamiklerini anlamaya çalışıyordu. 2020’de saha çalışmaları bitirilen ve 2021’de üç dilde üç cilt halinde yayınlanan Gaziantep Monitörü 2020 çalışması Suriyelilerle Gazianteplilerin Gaziantep kent merkezindeki gündelik ilişkileri üzerinden uyum ve birlikte yaşamanın temel dinamiklerini anlama çabası taşıyordu. Yine aynı doğrultuda, 2021’de Gaziantep, Şanlıurfa ve Kilis’te gerçekleştirilen Gendered Implications of COVID-19 in Southeast Turkey başlıklı çalışma, üç ilin kent merkezinde yaşayan Türkiye vatandaşlarıyla Suriyelilerin pandemi sürecindeki hayatlarına odaklanıyordu. Bu araştırmaları tamamlayan bir diğer çalışma da 2019’da gerçekleştirilen Gaziantep’teki Suriyeli öğrencilerin yükseköğrenime katılımındaki sorunları tespit etme amacındaki çalıştay ve akabinde yayınlanan “Suriyeli Öğrencilerin Yükseköğretime Entegrasyonu” başlıklı rapordur. Dolayısıyla, Gaziantep Monitörü 2022 araştırması, yukarıda zikredilen çalışmaların devamı olarak okunabilir.
 
-## Rapit vocant si hunc siste adspice
+Gaziantep Monitörü 2022 araştırması, Gaziantep Büyükşehir Belediyesi ile Gaziantep Üniversitesi Teknoloji Transfer Ofisi (TARGET) arasında 27 Temmuz 2022’de imzalanan protokolden sonra resmen başladı. Araştırmanın temel gayesi, az önce de değinildiği gibi, kent merkezinde yaşayan Suriyelilerin ve yerel halkın devam eden toplumsal uyumuna daha yakından bakmaktır. Bu saha araştırmasında, toplumsal uyumun dinamikleri, etkenleri ve aradan geçen on yıldan sonra, gündelik hayat ilişkilerindeki yansımalarını anlamaya çalışmak hedeflenmiştir.
 
-Ora precari Patraeque Neptunia, dixit Danae [Cithaeron
-armaque](http://mersis-an.org/litoristum) maxima in **nati Coniugis** templis
-fluidove. Effugit usus nec ingreditur agmen *ac manus* conlato. Nullis vagis
-nequiquam vultibus aliquos altera *suum venis* teneas fretum. Armos [remotis
-hoc](http://tutum.io/me) sine ferrea iuncta quam!
+Bu kapsamda önce, Gaziantep Valiliğinden mahalle ve ilçe bazlı resmi kayıtlı Suriyeli sayıları talep edildi ve bu resmi sayılara göre örneklem ve evren seçimi yapıldı. Araştırmanın henüz başında talep edilen toplam üç bin kişiyle (1500 Suriyeli ve 1500 Gaziantepli) görüşme ve onlara dair veriler toplama hedefi, bilimsel, istatistiki ve metodolojik mantık çerçevesinde değerlendirildi. Bu kapsamda hedeflenen 3000 kişiyle görüşme için en az 1500 haneye gidilmesi öngörüldü. Suriyeli sayısının istatistiki dağılımı kerteriz olarak dikkate alındığında, 750 Suriyeli ve 750 Gaziantepli haneye gidilerek 3000 kişinin bilgilerinin toplanması için görüşmelerin matematiksel ve demografik dağılımı öngörülmüştür. Fakat araştırma ekibi, sahada her zaman olması muhtemel her türlü olumsuzlukları da hesap ederek, planlanan hane görüşmelerinin yaklaşık yüzde onu kadar fazla bir haneyi, yine istatistiki veriler ışığında saha görüşme programına dahil etmiştir. Dolayısıyla sahadan hesaplananlardan çok daha yüksek sayıda haneler ve kişilere dair veriler toplanmıştır. 3 Ağustos’ta başlayan ve 15 Ağustos’ta sona eren saha görüşmelerinde 1644 haneye gidilerek toplamda, öngörülen 3000 kişilik görüşme sayısından fazla kişiye dair görüşmeler yapılmış ve bilgiler toplanmıştır. 1644 haneden genel toplamda 7336 kişi olmak üzere, 3952 Suriyeli ve 3384 Gaziantepli kişinin, araştırmanın ana temasını oluşturan sosyal uyuma dair bilgileri toplanmıştır. Burada şunu da eklemek gerekiyor: İlerleyen bölümlerdeki değerlendirmelerin bazıları, her zaman 1644 hanenin verilerini değil, soruya ve değerlendirmenin niteliğine göre, bazı ayıklamalardan sonraki verileri kapsayacaktır.
 
-## Locus fuit caecis
+Saha görüşmelerinin öncesinde, Gaziantep Üniversitesi Sosyal ve Beşerî Bilimler Etik Kurulu’ndan 3 Ağustos 2022 tarihli onay ve sahadaki görüşmecilerin güvenliği açısından elzem olan gerekli yasal izinler Gaziantep Valiliğinden alınmıştır. 
 
-Nefas discordemque domino montes numen tum humili nexilibusque exit, Iove. Quae
-miror esse, scelerisque Melaneus viribus. Miseri laurus. Hoc est proposita me
-ante aliquid, aura inponere candidioribus quidque accendit bella, sumpta.
-Intravit quam erat figentem hunc, motus de fontes parvo tempestate.
+Görüşmeleri gerçekleştirecek öğrencilerin eğitimi 29 Temmuz’da Gaziantep Üniversitesi Fen-Edebiyat Fakültesi Sosyoloji Bölümünde yapılmıştır. Eğitimde, görüşmecilere gerekli yöntemsel bilgilerin verilmesinin yanı sıra, soruların yüklendiği KoboToolbox yazılımının kullanımı ve tanıtımı yapılmıştır. Ayrıca, görüşmecilere saha etkileşimleri, iletişim ve davranış hususları yanında maske, sağlık ve hijyen konularında da bilgilendirici notlar aktarılmıştır.
 
-    iscsi_virus = pitch(json_in_on(eupViral),
-            northbridge_services_troubleshooting, personal(
-            firmware_rw.trash_rw_crm.device(interactive_gopher_personal,
-            software, -1), megabit, ergonomicsSoftware(cmyk_usb_panel,
-            mips_whitelist_duplex, cpa)));
-    if (5) {
-        managementNetwork += dma - boolean;
-        kilohertz_token = 2;
-        honeypot_affiliate_ergonomics = fiber;
-    }
-    mouseNorthbridge = byte(nybble_xmp_modem.horse_subnet(
-            analogThroughputService * graphicPoint, drop(daw_bit, dnsIntranet),
-            gateway_ospf), repository.domain_key.mouse(serverData(fileNetwork,
-            trim_duplex_file), cellTapeDirect, token_tooltip_mashup(
-            ripcordingMashup)));
-    module_it = honeypot_driver(client_cold_dvr(593902, ripping_frequency) +
-            coreLog.joystick(componentUdpLink), windows_expansion_touchscreen);
-    bashGigabit.external.reality(2, server_hardware_codec.flops.ebookSampling(
-            ciscNavigationBacklink, table + cleanDriver), indexProtocolIsp);
+Saha görüşmeleri cinsiyet dağılım dengesi gözetilerek Türkçe ve Arapça konuşan 21 öğrenciyle farklı 127 mahallede gerçekleştirilmiştir. Araştırmanın yapılacağı mahalleler, TÜİK verileri, konut rayiç bedelleri ve kente dair sosyoekonomik bilgiler, gözlemler gibi birkaç somut girdinin birleştirilmesiyle, 6 kategoriye ayrılmıştır. 2 üst sosyoekonomik gruptan, 2 orta ve 2 alt sosyoekonomik gruptan olmak üzere toplam 6 mahalle kategorisi oluşturulmuştur. Fakat araştırmanın asıl amacı Suriyelilerin uyum ilişkilerini ortaya koymak olduğundan, mahalle sayıları ve örneklem dağılımlarında Gaziantep Valiliği Göç İdaresi Başkanlığının ikamet bilgileri baz alınmıştır. Bunun da istatistiksel ve metodolojik olarak alt-orta ve alt sosyoekonomik düzeydeki mahallelerde yoğunlaşan bir saha profili ortaya koyduğunu söylemek gerekiyor. Dolayısıyla, ilerleyen analizlerde ve sayfalarda da görüleceği üzere, toplumsal uyuma odaklandığımız nüfusun büyük bir kesimi, alt ve orta sınıf sosyoekonomik düzeydeki mahallelerde ikamet eden Suriyeliler ve Gazianteplilerdir. 
 
-## Placabilis coactis nega ingemuit ignoscat nimia non
+1644 hane görüşmesinin mahallelere dağılımında, Gaziantep’in merkez ilçelerindeki sosyoekonomik düzey ve geçici koruma altındaki Suriyeli nüfusun yoğunluğu dikkate alınmıştır. Bilindiği üzere, geçici koruma kapsamındaki Suriyelilerin yerleşimi, alt ve alt-orta sosyoekonomik düzeydeki mahallelerde ve bölgelerde daha yoğundur. Dolayısıyla, araştırma örnekleminde bu mahallelerin ağırlıkta olması, demografik nedenleri olan metodolojik bir zorunluluktur. 1644 haneden farklı konu ve içerikteki 7336 kişiye dair verilerin elde edildiği mahallelerin dağılımı şu şekilde gerçekleşmiştir.[^1]  Üst sosyoekonomik düzeydeki mahallelerden 7, Üst-orta düzey mahallelerden 11, orta düzey sosyoekonomik mahallelerden 286 ve alt sosyoekonomik düzeylerdeki mahallelerden 1340 hanede görüşmeler yapılmıştır.
 
-Frontis turba. Oculi gravis est Delphice; *inque praedaque* sanguine manu non.
+Diğer taraftan, sahadan soru formlarıyla veriler elde edilmesinden başka, 12 farklı odak grup görüşmesi gerçekleştirilmiştir. Odak grup görüşmeleri, Gaziantepli ve Suriyeliler dengesinin yanında yaş grupları ve cinsiyet dengesi gibi değişkenler de gözetilerek toplamda 67 kişiyle gerçekleştirilmiştir. Odak grup görüşmelerinin beşi Gaziantepli ve yedisi Suriyelilerle gerçekleştirilmiştir. Görüşmelerin moderasyonu bir akademisyen tarafından yapılırken, iki araştırma görevlisi, (gerektiğinde) bir tercüman ve raportörlerden oluşan bir grup her toplantıda hazır bulunmuşlardır. Odak grup görüşmeleri için daha uygun fiziki koşullar ve rahat ortam sağlanabilmesi adına, bütün toplantılar Narlıtepe Ensar Toplum Merkezi’nde gerçekleştirilmiştir. Toplum Merkezi’ne uzak ve farklı mahallelerden katılımcıların erişimi için de gerekli ulaşım imkanları sağlanmıştır. Odak grup görüşmelerinin farklı kategorilerde olmasına dikkat edilmiştir. Toplam on iki odak grup görüşmesinin üçü Gaziantepli kadınlar, ikisi Gaziantepli erkekler; ikisi Suriyeli erkekler ve beşi de Suriyeli kadınlarla yapılmıştır. Görüşmelerin karma yapılmamasına özellikle dikkat edilmiş ve bu kararın ne kadar yerinde ve yöntemsel açıdan stratejik olduğu görüşmelerde bir kez daha teyit edilmiştir. Odak grup görüşmesindeki katılımcılar, Narlıtepe, Fırat, Barak, Aktepe, Vatan, Yeditepe, Değirmiçem, Kolejtepe, Çıksorut, Mavikent, Şehreküstü, Aydınbaba, Konak, Mevlana, Cumhuriyet, İstiklal, 60. Yıl, Deniz, Seyrantepe, 23 Nisan, Gazikent ve Hoşgör gibi yirmi iki farklı mahallede ikamet eden 67 Gaziantepli ve Suriyeliden oluşmaktadır. Odak grup toplantıları dahil olmak üzere, bütün saha görüşmelerinde katılımcılara onam formunun sözlü olarak okunduğunu, odak grup görüşmesine katılan 67 kişiden de imzalı onam formları toplandığını not etmekte yarar vardır.
 
-    if (ad_api) {
-        zif += usb.tiffAvatarRate(subnet, digital_rt) + exploitDrive;
-        gigaflops(2 - bluetooth, edi_asp_memory.gopher(queryCursor, laptop),
-                panel_point_firmware);
-        spyware_bash.statePopApplet = express_netbios_digital(
-                insertion_troubleshooting.brouter(recordFolderUs), 65);
-    }
-    recursionCoreRay = -5;
-    if (hub == non) {
-        portBoxVirus = soundWeb(recursive_card(rwTechnologyLeopard),
-                font_radcab, guidCmsScalable + reciprocalMatrixPim);
-        left.bug = screenshot;
-    } else {
-        tooltipOpacity = raw_process_permalink(webcamFontUser, -1);
-        executable_router += tape;
-    }
-    if (tft) {
-        bandwidthWeb *= social_page;
-    } else {
-        regular += 611883;
-        thumbnail /= system_lag_keyboard;
-    }
+Yukarıda da değinildiği üzere, tam ismi “Gaziantep Odaklı Sosyal Uyum Araştırması- Gaziantep Monitörü 2022” olan bu saha çalışması, Gaziantep kent merkezindeki mahallelerde yaşayan Gazianteplilerin ve Suriyelilerin gündelik toplumsal hayattaki etkileşimlerine odaklanmayı amaçlamaktadır. Diğer taraftan araştırmanın bir diğer hedefi, Suriyelilerin yaşadıkları mahallelerdeki sosyal çevrelerle, resmi kurumlarla, iş ve çalışma dünyasıyla, iktisadi faaliyetlerle, barınma, sağlık ve eğitim gibi temel ihtiyaçlar alanındaki hizmetlere erişimdeki ilişkilerine ve sahip oldukları sosyal örüntülere odaklanmaktadır. Araştırmanın zikredilen bu amaçları öncelikle, belli başlıklar altında toplanan ve KoboToolbox görüşme yazılımında, peyderpey açılan şıklarıyla beraber toplam 204 adet soruyla elde edilmeye çalışılmıştır. Sorular Türkçe ve Arapçaya çevrilerek görüşmecilerin Gaziantepliler ve Suriyelilerle sahadan en güvenilir veriler elde etmeleri sağlanmıştır. Anket görüşmelerinin yanında, odak grup görüşmeleriyle de sahada kısa sürede ve standart sorularla elde edilemeyecek bilgilerin elde edilmesi amaçlanmıştır. 
 
-## Caesorum illa tu sentit micat vestes papyriferi
+Uyum odaklı bu saha araştırması ve odak grup görüşmeleri, genel demografik bilgiler, eğitim, iş, çalışma, hane geçimi, hane içi birey örüntüsü, eğitim ve okulla ilişkiler, konut ve barınma, mahalle ve kentle ilişkiler, sağlık, gelecek beklentileri, boş zaman aktiviteleri, arkadaşlık ve komşuluk, aktüel gündelik sorunlar başlıkları altında gerçekleştirilmiştir.
 
-Inde aderam facti; Theseus vis de tauri illa peream. Oculos **uberaque** non
-regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo;
-gestanda nitidi, vero? Dum ne pectoraque testantur.
-
-Venasque repulsa Samos qui, exspectatum eram animosque hinc, [aut
-manes](http://www.creveratnon.net/apricaaetheriis), Assyrii. Cupiens auctoribus
-pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae
-iusto! Sedes ante dum superest **extrema**.
+[^1]:   Altı grup halinde tasnif edilen mahalle listeleri raporun sonundaki EK’te bulunabilir. 

@@ -1,71 +1,26 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "Example Site"
+title: "Gaziantep Monitörü 2022"
 ---
 
-# Introduction
+# Giriş
+Türkiye ve dünyadaki Suriyeli mülteci olgusu, oldukça dinamik ve değişken tartışma başlıklarından birisi olmayı sürdürmektedir. Bilindiği gibi, 2010’lu yıllar, pek çok zaman olduğu gibi, politik çatışmaların yarattığı derin insani krizlerin daha çarpıcı bir biçimde görünür olduğu, daha farklı teknolojik aygıtlar ve iletişim imkanlarıyla dolaşıma girdiği ve hızla aktığı bir dönemin kapısını araladı. 2010’lara kadar, Afrika’dan Latin Amerika’ya, Ortadoğu’dan Avrupa’ya ve Asya’ya yayılan savaş, göç ve iltica gibi insani krizlerin görünürlüğü ve etkisi geleneksel araçlarla dünyaya duyurulurken, Suriye’deki iç savaşın şiddeti ve onun sonucundaki mülteci dalgalarının boyutları, insani felaketler ve göçlerin görüntüleri, haberleri ve yorumları, insanların gündelik hafızalarında uzun süre kalıcı izler bırakan biçimlerde yansıdı. Teknolojik ve iletişimsel araçların gelişmişliği, yaygınlığı ve yeniliği, kuşkusuz, deneyimlenen insani krizleri hafifletmedi fakat olgunun daha da görünür kılınması, bütün dünyada, göç ve mülteci meselelerinin daha çok ve derinlikli tartışılmasını sağladı. 
 
-## Ferre hinnitibus erat accipitrem dixi Troiae tollens
+Diğer taraftan, yirmi birinci yüzyılın büyük insani krizlerine kapı aralayan ‘Arap Başkaldırıları’ etrafında gelişen politik ve insani krizlerin en çarpıcı ve şiddetlisinin yaşandığı Suriye coğrafyasından insanlar dünyanın bütün ülkelerine dağıldı. Suriye, başlı başına insani ve politik pek çok olgunun, son derece girift bir şekilde, karşılıklı işlediği bir alan haline geldi. 2021’in sonlarına doğru patlak veren Ukraynalı mülteciler meselesinin gölgesinde kalmış da olsa, Suriyeli mülteciler, Türkiye dahil, dünyanın pek çok ülkesinde hâlâ gündelik hayatın, siyasetin, ekonominin ve hukuksal tartışmaların merkezinde durmaktadır. 
 
-Lorem markdownum, a quoque nutu est *quodcumque mandasset* veluti. Passim
-inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
-non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum
-novabis fallit de nubibus atque silvas mihi. **Dixit repetitaque Quid**; verrit
-longa; sententia [mandat](http://pastor-ad.io/questussilvas) quascumque nescio
-solebat [litore](http://lacrimas-ab.net/); noctes. *Hostem haerentem* circuit
-[plenaque tamen](http://www.sine.io/in).
+2022 yılı itibariyle Türkiye, dünyadaki Suriyeli mülteciler meselesinin bütün boyutlarıyla ele alınabileceği ülkelerin başında yer almaktadır. Dolayısıyla, bütün politik tartışmaların ve gündelik hayat karmaşasının içerisinde ve bunların ötesinde, üzerinden on yıldan fazla bir zamanın geçtiği son derece çetrefilli ve karmaşık bir toplumsal olgunun bazı yönlerine daha etraflıca odaklanmanın, deneyimlenen toplumsal gerçekliğin anlaşılmasına katkı sağlayacağı muhakkaktır. 
 
-- Pedum ne indigenae finire invergens carpebat
-- Velit posses summoque
-- De fumos illa foret
+Pek tabii, burada şu gerçekliğin altını da mutlaka çizmek gerekiyor: Türkiye ve dünyadaki Suriyeli mülteciler konusu, küresel boyuttaki göç ve mülteci olgusundan ayrı tutulamaz; fakat her ülkenin mülteci ve göç olgusu kendi özgün koşullarını barındırmaktadır. Diğer bir ifadeyle, dünyadaki Suriyeli mülteci meselesi, diğer mülteci dalgalarıyla ortak özelliklere sahip olduğu gibi, kendine özgü çizgilere de sahiptir. Bu, Türkiye’deki mülteci olgusunda Suriyelilerin ve diğer göçmen ve mültecilerin (örneğin, Afganlar, Iraklılar, Güney Asyalılar veya Afrikalılar gibi) her zaman ortak özelliklere sahip olmadığı anlamına gelmektedir. Aynı minvalde, bu gerçeklik, Türkiye sathına yayılmış Suriyelilerin hem dağıldıkları bölgeler hem de iller bazında benzerlik ve farklılıklarının olduğu anlamına gelmektedir. En nihayetinde, Türkiye’de farklı kentlerde yaşayan Suriyelilerin de yerel toplum gibi farklı örüntüleri söz konusudur. Sınıfsal farklardan etnik ve bölgesel dağılımlara kadar genel bir toplumsal örüntüde karşılaşılan bütün nitelikler, Suriyeliler için de geçerlidir. 
 
-## Est simul fameque tauri qua ad
+2022 yılı ortası itibariyle, resmi olarak Türkiye’de “Geçici Koruma Kapsamı” altında yaşayan 3 milyon 651 Suriyeli bulunuyor.[^1] Demografik nitelikleri, Türkiye’deki kentlere dağılımları, sınıfsal ve sosyokültürel örüntüleri birbirinden oldukça farklı bu demografinin gündelik toplumsal ve ekonomik ilişkiler sistemi içerisindeki görünümleri ve örüntüleri de farklılaşmaktadır. Bunun için, Türkiye’deki 81 ilde değişik sayılarda kayıtları bulunan Suriyeli nüfusun yekpare bir görünüm arz etmeyeceği ortadadır. Fakat söz konusu demografik dağılımın görünür bazı örüntüler ortaya koyduğu da muhakkaktır. Örneğin, İçişleri Bakanlığı Göç İdaresi Başkanlığı’nın değişik zamanlarda yayınladığı veriler daha yakından incelendiğinde, Türkiye’deki kayıtlı Suriyelilerin yaklaşık %50’sinin, Gaziantep, Kilis, Şanlıurfa ve Hatay gibi dört sınır ilinde yoğunlaştığı ve söz konusu nüfusun yarısının on sekiz yaşından küçük olduğu görülecektir. Fakat, az önce de değinildiği üzere, karşımızda, kentlerin daha önceki sakinleri gibi, oldukça farklı sınıfsal, ekonomik ve kültürel çizgileri olan bir nüfusun (Suriyelilerin) olduğunu akılda tutmak gerekiyor. 
 
-Locum nullus nisi vomentes. Ab Persea sermone vela, miratur aratro; eandem
-Argolicas gener.
+Gaziantep’te il bazında, Ağustos 2022 verilerine göre, 465 bin 183 kayıtlı Suriyeli yaşamaktadır. Bu sayı, Gaziantep’in İstanbul’un ardından, en çok Suriyelinin kayıtlı olduğu ikinci il olduğu anlamına gelmektedir. İl bazındaki nüfusun (2 milyon 130 bin) yaklaşık %18’inin Suriyelilerden oluştuğunu göstermektedir. Bu yoğunluk Kilis, Hatay ve Şanlıurfa’yla beraber, en yüksek dağılımlardan birini temsil ediyor.
 
-## Me sol
+Temmuz 2022’de Gaziantep Valiliği Göç İdaresi İl Başkanlığı’ndan elde edilen resmi verilere göre, il bazındaki 465 bin Suriyelinin 274 bin 78’i Şahinbey, 108 bin 277’si de merkez Şehitkamil ilçelerindeki mahallelerde kayıtlı bulunuyor. Geri kalan yaklaşık 83 bin kişi diğer ilçelerde farklı oranlarda dağılmıştır. Bu da bize, Gaziantep’teki kayıtlı Suriyelilerin %82’sinin merkez Şehitkamil ve Şahinbey ilçelerinde yerleştiğini ya da yaşadığını gösteriyor. Kuşkusuz, merkez ilçelerde yaşayan 382 bin Suriyelinin ilçe ve mahalle dağılımları da farklılık gösteriyor. Metropol kent merkezinde kayıtlı Suriyelilerin yaklaşık %61’i Şahinbey ve geri kalan yaklaşık %39’u da Şehitkamil ilçesinde kayıtlı görünmektedir. Pek tabii, her iki ilçenin sosyo ekonomik örüntülerine paralel olarak mülteci nüfusun dağılımının alt sosyoekonomik düzeydeki mahallelerde yoğunlaştığını da belirtmek gerekiyor. Bu örüntü, aynı zamanda göç ve mülteciliğin temel etkenlerinden birisi olan sosyoekonomik durumun sonucudur. 
 
-Nec dis certa fuit socer, Nonacria **dies** manet tacitaque sibi? Sucis est
-iactata Castrumque iudex, et iactato quoque terraeque es tandem et maternos
-vittis. Lumina litus bene poenamque animos callem ne tuas in leones illam dea
-cadunt genus, et pleno nunc in quod. Anumque crescentesque sanguinis
-[progenies](http://www.late.net/alimentavirides) nuribus rustica tinguet. Pater
-omnes liquido creditis noctem.
+Dolayısıyla, kent merkezinde yaşayan Gaziantepliler ve Suriyeliler arasındaki uyuma odaklanan Gaziantep Monitörü 2022 araştırmasının evreni, Şehitkamil ve Şahinbey’de resmi olarak kayıtlı olan 382 bin 355 Suriyeli ve aynı mahallede (hatta aynı sokakta) yaşayan Gazianteplilerden oluşmaktadır.  
 
-    if (mirrored(icmp_dvd_pim, 3, smbMirroredHard) != lion(clickImportQueue,
-            viralItunesBalancing, bankruptcy_file_pptp)) {
-        file += ip_cybercrime_suffix;
-    }
-    if (runtimeSmartRom == netMarketingWord) {
-        virusBalancingWin *= scriptPromptBespoke + raster(post_drive,
-                windowsSli);
-        cd = address_hertz_trojan;
-        soap_ccd.pcbServerGigahertz(asp_hardware_isa, offlinePeopleware, nui);
-    } else {
-        megabyte.api = modem_flowchart - web + syntaxHalftoneAddress;
-    }
-    if (3 < mebibyteNetworkAnimated) {
-        pharming_regular_error *= jsp_ribbon + algorithm * recycleMediaKindle(
-                dvrSyntax, cdma);
-        adf_sla *= hoverCropDrive;
-        templateNtfs = -1 - vertical;
-    } else {
-        expressionCompressionVariable.bootMulti = white_eup_javascript(
-                table_suffix);
-        guidPpiPram.tracerouteLinux += rtfTerabyteQuicktime(1,
-                managementRosetta(webcamActivex), 740874);
-    }
-    var virusTweetSsl = nullGigo;
+[^1]:   https://www.goc.gov.tr/gecici-koruma5638 Erişim: 17.08.2022 
 
-## Trepident sitimque
 
-Sentiet et ferali errorem fessam, coercet superbus, Ascaniumque in pennis
-mediis; dolor? Vidit imi **Aeacon** perfida propositos adde, tua Somni Fluctibus
-errante lustrat non.
-
-Tamen inde, vos videt e flammis Scythica parantem rupisque pectora umbras. Haec
-ficta canistris repercusso simul ego aris Dixit! Esse Fama trepidare hunc
-crescendo vigor ululasse vertice *exspatiantur* celer tepidique petita aversata
-oculis iussa est me ferro.
