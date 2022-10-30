@@ -1,13 +1,13 @@
 ---
 headless: true
 ---
+- [**Araştırma Hakkında**] ({{< >}})
+  - [Teşekkür] ({{< >}})
+<br />
 
 - [**Giriş**]({{< relref "/docs/example" >}})
 - [Amaç, Kapsam ve Metodoloji]({{< relref "/docs/example/table-of-contents" >}})
   - [Örneklem Haritası]({{< relref "/docs/example/table-of-contents/with-toc" >}})
-- [Collapsed]({{< relref "/docs/example/collapsed" >}})
-  - [3rd]({{< relref "/docs/example/collapsed/3rd-level" >}})
-    - [4th]({{< relref "/docs/example/collapsed/3rd-level/4th-level" >}})
 <br />
 
 - **Bulgular**
