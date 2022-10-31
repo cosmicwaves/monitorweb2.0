@@ -1,8 +1,8 @@
 ---
 headless: true
 ---
-- [**Araştırma Hakkında**] ({{< >}})
-  - [Teşekkür] ({{< >}})
+- [**Araştırma Hakkında**]({{< relref "/docs/arastirma/" >}})
+  - [Teşekkür]({{< relref "/docs/arastirma/tesekkur/" >}})
 <br />
 
 - [**Giriş**]({{< relref "/docs/example" >}})
