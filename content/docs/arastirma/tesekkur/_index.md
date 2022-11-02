@@ -14,7 +14,7 @@ bookHidden: false
 <p align:"Justified">Bu türden büyük çaplı saha araştırmalarında yerel resmî kurumların anlayışları ve iş birlikleri olmadan yol almak mümkün değil ve Gaziantep bu yönüyle gerçekten özel bir yere sahip. Araştırmanın yasal saha izinleri için Gaziantep Valiliği, Gaziantep Göç İdaresi Başkanlığı ve ilgili güvenlik birimlerinin desteği ve yardımları için kendilerine teşekkür ediyoruz. </p>
 
 <p align:"Right">
-_Eylül 2022_ </br>
-**Dr. Mehmet Nuri GÜLTEKİN** </br>
-_Proje Ekibi Adına_
+<i>Eylül 2022</i> </br>
+<b> Dr. Mehmet Nuri GÜLTEKİN </b> </br>
+<i>Proje Ekibi Adına</i>
 </p>
