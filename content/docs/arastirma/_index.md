@@ -24,7 +24,7 @@ Bu araştırma Gaziantep Büyükşehir Belediyesi'nin finansal ve stratejik orta
 </center>
 <---> 
 
-<h1 align:"center"> # İletişim </h1>
+<h1 align:"center"> İletişim </h1>
 <center>
 <a href="mailto:mkayagoc@gmail.com">Murat Kaya</a>
 </center>
