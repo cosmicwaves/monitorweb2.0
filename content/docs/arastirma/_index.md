@@ -18,13 +18,13 @@ Zümrüt BELLUR MÜBAREK (Araştırmacı)<br/>
 </center>
 <--->
 
-# Araştırma Desteği
+<center> # Araştırma Desteği </center>
 <center>
 Bu araştırma Gaziantep Büyükşehir Belediyesi'nin finansal ve stratejik ortaklığıyla gerçekleştirilmiştir.
 </center>
 <---> 
 
-# İletişim
+<center> # İletişim </center>
 <center>
 <a href="mailto:mkayagoc@gmail.com">Murat Kaya</a>
 </center>
