@@ -1,4 +1,4 @@
-baseURL = 'www.gaziantepmonitor.org'
+baseURL = '/'
 title = 'Gaziantep Monitor'
 theme = 'hugo-book'
 
