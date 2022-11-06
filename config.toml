@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'www.gaziantepmonitor.org'
 title = 'Gaziantep Monitor'
 theme = 'hugo-book'
 
@@ -29,7 +29,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
 [[menu.after]]
   name = "PDF"
-  url = "https://themes.gohugo.io/hugo-book/"
+  url = "/"
   weight = 20
 
 [params]
